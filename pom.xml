@@ -157,7 +157,7 @@
 			<configuration>
 				<warsourcedirectory>src/main/webapp</warsourcedirectory>
 				<webxml>src/main/webapp/WEB-INF/web.xml</webxml>
-				<encording>UTF-8</encording>
+				<encoding>UTF-8</encoding>
 			</configuration>
 		</plugin>             
 		<plugin>
@@ -167,7 +167,7 @@
 			<configuration>
 				<url>http://127.0.0.1:8080/manager/text</url>
 				<username>tomcat</username>
-				<password>tomcat1234</password>
+				<password>tomcat</password>
 			</configuration>
 		</plugin>
 	</plugins>    
